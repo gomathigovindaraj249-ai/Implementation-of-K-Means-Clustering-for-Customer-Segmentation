@@ -69,8 +69,8 @@ plt.show()
 ```
 
 ## Output:
-![alt text](<Screenshot 2026-02-25 091902.png>)
-![alt text](<Screenshot 2026-02-25 091959.png>)
-![alt text](<Screenshot 2026-02-25 092015.png>)
+![alt text](<Screenshot 2026-02-25 091902-1.png>)
+![alt text](<Screenshot 2026-02-25 091959-2.png>)
+![alt text](<Screenshot 2026-02-25 092015-1.png>)
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
